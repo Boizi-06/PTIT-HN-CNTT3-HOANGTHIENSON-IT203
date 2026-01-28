@@ -57,7 +57,8 @@ public class Bai5 {
 
         for (int i = 0; i < n; i++) {
             if (arrBook[i] != key) {
-                newArr[index++] = arrBook[i];
+                newArr[index] = arrBook[i];
+                index++;
             }
         }
 
