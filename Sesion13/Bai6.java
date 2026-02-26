@@ -1,4 +1,4 @@
-package Sesion10;
+package Sesion13;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ public class Bai6 {
 
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);s
 
         // =========================
         // CÂU 1 – XỬ LÝ CHUỖI
